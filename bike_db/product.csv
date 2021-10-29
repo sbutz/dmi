@@ -1,0 +1,71 @@
+PSID;artid;name;prodgrid;prodgroup;color;price
+1;100001;Man City Bike;100;Man bicycle;blue;700
+2;100002;Woman City Bike;200;Lady bicycle;red;650
+3;200001;Man City Frame sprayed;600;Intermediate product;blue;400
+4;200002;Woman City Frame sprayed;600;Intermediate product;red;400
+5;300001;Man City Frame welded;600;Intermediate product;;370
+6;300002;Woman City Frame welded;600;Intermediate product;;370
+7;400001;Wheel;600;Intermediate product;;70
+8;500001;Pipe 25CrMo4 9mm;500;Equipment;;7.5
+9;500002;Saddle;500;Equipment;;50
+10;500003;Group Deore LX;500;Equipment;;7
+11;500004;Group Deore XT;500;Equipment;;6
+12;500005;Group XC-LTD;500;Equipment;;8
+13;500006;Rim;500;Equipment;;40
+14;500007;Set of tyres;500;Equipment;;20
+15;500008;Handlebars;500;Equipment;;94
+16;500009;Saddle pillar;500;Equipment;;5.5
+17;500010;Pedal;500;Equipment;;40
+18;500011;Pipe 34CrMo4 2.1mm;500;Equipment;;4
+19;500012;Pipe 34CrMo3 2.4mm;500;Equipment;;4.3
+20;500013;Pedal bearing;500;Equipment;;30
+21;500014;Shaft;500;Equipment;;12
+22;500015;Tube;500;Equipment;;8
+23;100003;Man City Bike;100;Man bicycle;black;700
+24;100004;Woman City Bike;200;Lady bicycle;black;650
+25;100005;Man City Bike;100;Man bicycle;blue;720
+26;100006;Woman City Bike;200;Lady bicycle;red;670
+27;100007;Man City Bike;100;Man bicycle;black;720
+28;100008;Woman City Bike;200;Lady bicycle;black;670
+29;100011;Man Trekking Bike;100;Man bicycle;blue;750
+30;100012;Woman Trekking Bike;200;Lady bicycle;red;700
+31;100013;Man Trekking Bike;100;Man bicycle;black;750
+32;100014;Woman Trekking Bike;200;Lady bicycle;black;700
+33;100015;Man Trekking Bike;100;Man bicycle;blue;770
+34;100016;Woman Trekking Bike;200;Lady bicycle;red;720
+35;100017;Man Trekking Bike;100;Man bicycle;black;770
+36;100018;Woman Trekking Bike;200;Lady bicycle;black;720
+37;100021;Mountainbike;400;Mountainbike;black;700
+38;100022;Mountainbike;400;Mountainbike;blue;700
+39;100023;Mountainbike;400;Mountainbike;red;700
+40;100031;Juvenile bike;300;Juvenile bicycle;blue;400
+41;100032;Juvenile bike;300;Juvenile bicycle;red;400
+42;200003;Man City Frame sprayed;600;Intermediate product;black;400
+43;200004;Woman City Frame sprayed;600;Intermediate product;black;400
+44;200011;Man Trekking Frame sprayed;600;Intermediate product;blue;420
+45;200012;Woman Trekking Frame sprayed;600;Intermediate product;red;420
+46;200013;Man Trekking Frame sprayed;600;Intermediate product;black;420
+47;200014;Woman Trekking Frame sprayed;600;Intermediate product;black;420
+48;200021;Mountainbike Frame sprayed;600;Intermediate product;black;380
+49;200022;Mountainbike Frame sprayed;600;Intermediate product;blue;380
+50;200023;Mountainbike Frame sprayed;600;Intermediate product;red;380
+51;200031;Juvenile bike Frame sprayed;600;Intermediate product;blue;220
+52;200032;Juvenile bike Frame sprayed;600;Intermediate product;red;220
+53;300011;Man Trekking Frame welded;600;Intermediate product;;390
+54;300012;Woman Trekking Frame welded;600;Intermediate product;;390
+55;300021;Mountainbike Frame welded;600;Intermediate product;;350
+56;300031;Juvenile bike Frame welded;600;Intermediate product;;200
+57;400002;Wheel;600;Intermediate product;;75
+58;400003;Wheel;600;Intermediate product;;60
+59;500028;Handlebar special;500;Equipment;;100
+60;500102;Saddle for women;500;Equipment;;50
+61;500103;Saddle for men;500;Equipment;;50
+62;500104;Saddle comfort;500;Equipment;;60
+63;500105;Saddle sport;500;Equipment;;70
+64;500106;Saddle for children;500;Equipment;;30
+65;500201;Rim;500;Equipment;;40
+66;500202;Set of tyres;500;Equipment;;20
+67;500203;Rim;500;Equipment;;35
+68;500204;Set of tyres;500;Equipment;;15
+69;500301;Tube;500;Equipment;;8
+70;500302;Tube;500;Equipment;;8
